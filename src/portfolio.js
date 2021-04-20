@@ -375,7 +375,7 @@ const degrees = {
     {
       title: "St. Stephen’s School , Chandigarh",
       subtitle: "ICSE(All India Senior School Certificate Examination) SCHOOLING	",
-      logo_path: "cu_logo.png",
+      logo_path: "stephen_logo.png",
       alt_name: "Punjab State Board of Technical Education",
       duration: "2006 - 2016",
       descriptions: [
@@ -546,7 +546,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "jerry.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours.",
   },
