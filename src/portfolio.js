@@ -469,7 +469,7 @@ const contactPageData = {
     subtitle:
       "Phase 9 Mohali Sector 63 Punjab India ",
     avatar_image_path: "address_image.svg",
-    location_map_link: "",
+    location_map_link: "https://goo.gl/maps/oH1nASL8J6y4FCyK6",
   },
   phoneSection: {
     title: "Phone Number",
