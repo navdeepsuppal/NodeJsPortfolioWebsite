@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.d65e5f6d.chunk.css",
-    "main.js": "/static/js/main.5f79b8a4.chunk.js",
-    "main.js.map": "/static/js/main.5f79b8a4.chunk.js.map",
+    "main.js": "/static/js/main.d3d5682f.chunk.js",
+    "main.js.map": "/static/js/main.d3d5682f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f87da52b.js",
     "runtime-main.js.map": "/static/js/runtime-main.f87da52b.js.map",
     "static/js/2.6ca20617.chunk.js": "/static/js/2.6ca20617.chunk.js",
     "static/js/2.6ca20617.chunk.js.map": "/static/js/2.6ca20617.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.789791c5b3a35ce33fd0db26db4f0b0e.js": "/precache-manifest.789791c5b3a35ce33fd0db26db4f0b0e.js",
+    "precache-manifest.02be580dfcdace4bab2c8509d4e01a6e.js": "/precache-manifest.02be580dfcdace4bab2c8509d4e01a6e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d65e5f6d.chunk.css.map": "/static/css/main.d65e5f6d.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
@@ -33,7 +33,7 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
-    "static/media/jerry.png": "/static/media/jerry.f090d9dc.png",
+    "static/media/jerry.png": "/static/media/jerry.7a023e78.png",
     "static/media/jerry2.png": "/static/media/jerry2.552f0e8b.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
@@ -56,6 +56,6 @@
     "static/js/runtime-main.f87da52b.js",
     "static/js/2.6ca20617.chunk.js",
     "static/css/main.d65e5f6d.chunk.css",
-    "static/js/main.5f79b8a4.chunk.js"
+    "static/js/main.d3d5682f.chunk.js"
   ]
 }

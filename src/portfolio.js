@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Navdeep Singh Uppal",
   logo_name: "navdeep",
-  nickname: "Sophomore Undergraduate",
+  nickname: "navi👻",
   subTitle:
     "I am a software developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.",
   resumeLink:
