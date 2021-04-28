@@ -284,7 +284,7 @@ const degrees = {
         "⚡ Activities and societies : Bhangra, English & Punjabi Debate Competition, Inter-School Coding Quiz, Tug of War , NCC Cadet, School Level Basketball Player	",
         
       ],
-      website_link: "http://www.cuchd.in/",
+      website_link: "http://www.stephenschandigarh.com/mydefault.php",
     },
 
 
