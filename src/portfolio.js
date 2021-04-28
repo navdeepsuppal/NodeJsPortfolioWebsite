@@ -1,6 +1,6 @@
-/* Change this file to get your personal Porfolio */
 
-// Website related settings
+
+
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
 };
@@ -9,31 +9,31 @@ const settings = {
 const seo = {
   title: "Navdeep Singh Uppal",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I am a software developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.",
   og: {
     title: "Navdeep Singh Uppal",
     type: "website",
-    url: "http://navi.sqera.com",
+    url: "",
   },
 };
 
 //Home Page
 const greeting = {
   title: "Navdeep Singh Uppal",
-  logo_name: "navi",
-  nickname: "navi",
+  logo_name: "",
+  nickname: "Sophomore Undergraduate",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I am a software developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.",
   resumeLink:
-    "https://drive.google.com/file/d/1leRWc0NPzMg8AM7taA34xUCHBaQIsQWM/view?usp=sharing",
-  portfolio_repository: "https://github.com/navdeepsuppal",
+    "https://drive.google.com/file/d/1ZlAp5ShASBE0dhAIVh_USY7bniA7faEp/view?usp=sharing",
+  portfolio_repository: "https://github.com/navdeepuppal",
 };
 
 const socialMediaLinks = [
   
   {
     name: "Github",
-    link: "https://github.com/navdeepsuppal",
+    link: "https://github.com/navdeepuppal",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -89,13 +89,7 @@ const skills = {
         "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
+        
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -110,27 +104,9 @@ const skills = {
             color: "#0089D6",
           },
         },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
+        
+       
+        
         {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
@@ -153,7 +129,7 @@ const skills = {
 
 
     {
-      title: "DevOps",
+      title: "Programming Languages",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
@@ -161,28 +137,8 @@ const skills = {
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
+        
+       
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -220,13 +176,7 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
+        
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -257,20 +207,8 @@ const skills = {
             color: "#2C8EBB",
           },
         },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        
+        
       ],
     },
     
@@ -285,46 +223,7 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+    
   ],
 };
 
@@ -341,7 +240,6 @@ const degrees = {
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Git, Data Science, AWS and Cloud Computing.",
         "⚡ Major Elective – DevOps with Xebia Collaboration",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
         "⚡ Activities and societies : Bhangra, Coding Camp, Mangonel Competition ,Gaming & Automation, Robo Buggy Control Competition",
       ],
       website_link: "http://www.thapar.edu/",
@@ -363,6 +261,7 @@ const degrees = {
         "⚡ Secured 1st Position in each of the 6 Semesters of Diploma at University level",
         "⚡ Secured top 10 Merit Position in each Semester of Diploma at Punjab State level.",
         "⚡ Best Paper Presentation for topic Smart Traffic Lights Triggering System for India at Inter-polytechnic State level Tech Fest (PTIS).",
+        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics",
         "⚡ Activities and societies : Hosted Gaming Competition, Inter-Uni Project Competition Engineer's Day Winner, Best PPT Presentation Award, JAVA Training from NSIC LTD	",
       ],
       website_link: "http://www.cuchd.in/",
@@ -397,23 +296,31 @@ const certifications = {
   certifications: [
     {
       title: "JAVA",
-      subtitle: "java",
+      subtitle: " JAVA Training from NSIC LTD in July’2018 6-week Java programming training from National Small Industries Corporation Ltd. Technical Services Centre.",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+        "https://drive.google.com/file/d/1yhHIGPlr0XfqMQkIy606kFilA63yEP6f/view?usp=sharing",
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "PHP & My SQL",
+      subtitle: "PHP and MySQL from IIT BOMBAY in Feb’2018 Successfully cleared online Test under Spoken Tutorial Project of IIT Bombay, funded by National Mission on Education through ICT, MHRD,GOI.",
+      logo_path: "stanford_logo2.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+        "https://drive.google.com/file/d/1gFnlwAmY8aqLNzUImXYW9da1yE6Q5v2o/view?usp=sharing",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
-    
+    {
+      title: "C, C++",
+      subtitle: "C/C++ Language from IIT BOMBAY in Feb’2018 Successfully cleared online Test under Spoken Tutorial Project of IIT Bombay, funded by National Mission on Education through ICT,MHRD,GOI.",
+      logo_path: "stanford_logo3.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1u3dujJGBF9IDg3Mk-ilQbzplvSY7LFSP/view?usp=sharing",
+      alt_name: "deeplearning.ai",
+      color_code: "#00000099",
+    },
   ],
 };
 
